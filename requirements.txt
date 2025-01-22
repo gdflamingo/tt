@@ -1,0 +1,6 @@
+pandas
+plotly-express
+streamlit
+git add requirements.txt
+git commit -m "Adicionando requirements.txt"
+git push
