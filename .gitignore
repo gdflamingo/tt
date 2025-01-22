@@ -36,6 +36,10 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+git add app.py
+git commit -m "Corrigindo app.py para remover comandos inválidos"
+git push
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
