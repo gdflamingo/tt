@@ -16,7 +16,7 @@ fig.show()
 # Ler o arquivo CSV
 data = pd.read_csv('vehicles.csv')
 
-# Cabeçalho do aplicativo
+
 st.header('Análise de Dados de Veículos Usados')
 
 # Botão para criar o histograma
